@@ -1,0 +1,4 @@
+-cp src
+-main nodion.shared.Main
+-swf p.swf
+#-neko p.n
