@@ -7,7 +7,9 @@ class Model<
     CmderT:Cmder<Dynamic>
 >
 extends DataObject {
+
     public function new() {
         super();
+
     }
 }
